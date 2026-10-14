@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">lllmmmm — From models to systems.</title>
+  <desc id="desc">A dark navy banner with a turquoise connected-system motif. Agents, knowledge, evaluation and delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#0a101c"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#6ee7c6"/><stop offset="1" stop-color="#67b8ed"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b4d5ef" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M0 358H1280" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <circle cx="59" cy="59" r="4" fill="#6ee7c6"/>
+    <text x="74" y="65" fill="#b2c4d6" font-size="17" letter-spacing="2.7">lllmmmm / z652011350</text>
+    <text x="54" y="145" fill="#f0f6fc" font-size="58" font-weight="700" letter-spacing="-2.3">From models</text>
+    <text x="54" y="212" fill="url(#accent)" font-size="58" font-weight="700" letter-spacing="-2.3">to systems.</text>
+    <text x="58" y="273" fill="#b0c0d2" font-size="20">Agents. Knowledge. Evaluation. Delivery.</text>
+    <text x="58" y="317" fill="#71879e" font-size="12" letter-spacing="3">THINK CLEARLY. BUILD CAREFULLY.</text>
+  </g>
+  <g fill="none" stroke="#304b62" stroke-width="1.5">
+    <path d="M791 86H934L1039 180L934 274H791L717 180Z"/>
+    <path d="M791 86L859 180L791 274M934 86L859 180L934 274M717 180H1134M1039 180L1120 86M1039 180L1120 274"/>
+    <circle cx="859" cy="180" r="62" stroke="#6ee7c6" stroke-opacity=".15"/>
+    <circle cx="859" cy="180" r="80" stroke="#6ee7c6" stroke-opacity=".07"/>
+  </g>
+  <g fill="#0e1d2d" stroke="#52738b" stroke-width="1.5">
+    <rect x="762" y="65" width="58" height="42" rx="10"/>
+    <rect x="905" y="65" width="58" height="42" rx="10"/>
+    <rect x="762" y="253" width="58" height="42" rx="10"/>
+    <rect x="905" y="253" width="58" height="42" rx="10"/>
+    <circle cx="717" cy="180" r="9"/>
+    <circle cx="1039" cy="180" r="10"/>
+    <circle cx="1120" cy="86" r="5"/>
+    <circle cx="1120" cy="274" r="5"/>
+    <circle cx="1134" cy="180" r="5"/>
+  </g>
+  <g stroke="#77c9ce" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M782 86L787 91L800 78M925 79H943M925 86H939M925 93H933M783 267H799V281H783Z M926 274L931 279L943 267"/>
+  </g>
+  <rect x="822" y="143" width="74" height="74" rx="20" fill="#142f39" stroke="#6ee7c6" stroke-width="1.8"/>
+  <g fill="none" stroke="#a5f3dc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M848 167L835 180L848 193M870 167L883 180L870 193M863 165L855 195"/>
+  </g>
+  <g fill="#6ee7c6"><circle cx="859" cy="118" r="3"/><circle cx="934" cy="86" r="0"/><circle cx="1039" cy="180" r="3"/></g>
+</svg>
