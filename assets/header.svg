@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">lllmmmm — From models to systems.</title>
-  <desc id="desc">A dark navy banner with a turquoise connected-system motif. Agents, knowledge, evaluation and delivery.</desc>
+  <desc id="desc">A dark navy banner with a turquoise connected-system motif. Agents, learning, knowledge and trust.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#0a101c"/></linearGradient>
     <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#6ee7c6"/><stop offset="1" stop-color="#67b8ed"/></linearGradient>
@@ -14,7 +14,7 @@
     <text x="74" y="65" fill="#b2c4d6" font-size="17" letter-spacing="2.7">lllmmmm / z652011350</text>
     <text x="54" y="145" fill="#f0f6fc" font-size="58" font-weight="700" letter-spacing="-2.3">From models</text>
     <text x="54" y="212" fill="url(#accent)" font-size="58" font-weight="700" letter-spacing="-2.3">to systems.</text>
-    <text x="58" y="273" fill="#b0c0d2" font-size="20">Agents. Knowledge. Evaluation. Delivery.</text>
+    <text x="58" y="273" fill="#b0c0d2" font-size="20">Agents. Learning. Knowledge. Trust.</text>
     <text x="58" y="317" fill="#71879e" font-size="12" letter-spacing="3">THINK CLEARLY. BUILD CAREFULLY.</text>
   </g>
   <g fill="none" stroke="#304b62" stroke-width="1.5">
